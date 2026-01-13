@@ -2,28 +2,21 @@
 
 Software Developer | I build clean, maintainable web apps, serverless backends and event-driven microservices.
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <!-- New badges -->
-  <a href="https://www.hackerrank.com/certificates/9bdb3d92b173"><img alt="HackerRank Python" src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://coursera.org/share/38a79f278248c1be999bc09fb03a70e5"><img alt="IBM Cloud Computing" src="https://img.shields.io/badge/IBM-Cloud_Computing-0072C6?style=for-the-badge&logo=ibm&logoColor=white"/></a>
-</p>
-
----
-
 ## About
 
 - 🔭 I’m currently: Software Developer @ Dsquares (June 2024 – Present)
 - 🌱 I’m learning: System Design, Domain-Driven Design (DDD)
 - 📫 How to reach me: rawankhedr22@gmail.com · [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rawan-hossam-26a013235/)
 - ⚡ Pronouns: she/they
+
+---
+
+## Badges and Certificate
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/9bdb3d92b173"><img alt="HackerRank Python" src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://coursera.org/share/38a79f278248c1be999bc09fb03a70e5"><img alt="IBM Cloud Computing" src="https://img.shields.io/badge/IBM-Cloud_Computing-0072C6?style=for-the-badge&logo=ibm&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -186,4 +179,4 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 ---
 
-*Updated badges: added HackerRank Python certificate and IBM Cloud Computing (Coursera) badge; layout made more UI-friendly with collapsible sections.*
+*Updated: moved HackerRank and IBM badges into a dedicated 'Badges and Certificate' section and kept the UI-friendly layout with collapsible sections.*
