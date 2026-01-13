@@ -6,7 +6,7 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 - 🔭 I’m currently: Software Developer @ Dsquares (June 2024 – Present)
 - 🌱 I’m learning: System Design, Domain-Driven Design (DDD)
-- 📫 How to reach me: rawankhedr22@gmail.com · [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rawan-hossam-26a013235/)
+- 📫 How to reach me: rawankhedr22@gmail.com · https://www.linkedin.com/in/rawan-hossam-26a013235/
 - ⚡ Pronouns: she/they
 
 ---
@@ -191,7 +191,7 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 ## Get in touch
 
 - Email: rawankhedr22@gmail.com
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rawan-hossam-26a013235/)
+- LinkedIn: https://www.linkedin.com/in/rawan-hossam-26a013235/
 - GitHub: https://github.com/Rawan22Hossam
 
 ---
