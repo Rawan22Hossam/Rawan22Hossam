@@ -20,6 +20,23 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 ---
 
+## Languages
+
+<div align="center" style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;max-width:900px;margin:auto;background:#f8f9fb">
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+<p align="center" style="margin-top:8px;color:#586069">Primary languages I use for backend services, APIs and tooling.</p>
+
+</div>
+
+---
+
 ## Table of contents
 
 - [Experience](#experience)
@@ -179,4 +196,4 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 ---
 
-*Updated: moved HackerRank and IBM badges into a dedicated 'Badges and Certificate' section and kept the UI-friendly layout with collapsible sections.*
+*Updated: added a Languages card with badges and preserved UI-friendly layout and badges section.*
