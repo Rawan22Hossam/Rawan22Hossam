@@ -196,4 +196,3 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 ---
 
-*Updated: added a Languages card with badges and preserved UI-friendly layout and badges section.*
