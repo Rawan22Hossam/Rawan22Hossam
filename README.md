@@ -3,7 +3,7 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 🔭 I’m currently: Software Developer @ Dsquares (June 2024 – Present)
 🌱 I’m learning: System Design, Domain-Driven Design (DDD)
-📫 How to reach me: your.email@example.com · https://linkedin.com/in/your-linkedin
+📫 How to reach me: rawankhedr22@gmail.com · [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rawan-hossam-26a013235/)
 ⚡ Pronouns: she/they
 
 ---
@@ -107,12 +107,8 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 ---
 
 ## Get in touch
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- Email: rawankhedr22@gmail.com
+- LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rawan-hossam-26a013235/)
 - GitHub: https://github.com/Rawan22Hossam
 
 ---
-
-*If you'd like, I can also:*
-- Add/pin specific project repos and fill their 1-line summaries — tell me the repo names.
-- Remove external stats images and replace with static lists if you prefer privacy or fewer external calls.
