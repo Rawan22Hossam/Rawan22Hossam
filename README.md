@@ -192,23 +192,6 @@ and Pytest, complemented by full-cycle API testing
 
 </details>
 
-<details>
-<summary><strong>Notifications Service</strong></summary>
-
-- Short description: High-volume messaging microservice for SMS/Email/Push.
-- Tech: C#, ASP.NET Core, Kafka, Redis, Docker, Kubernetes
-- Highlights:
-  - Stateless microservice deployed in containers; Kafka used for buffering & replayability.
-  - Redis used for deduplication and rate-limiting.
-
-</details>
-
-<details>
-<summary><strong>More projects</strong></summary>
-
-- [Add other project repos here] — 1-line summary. Tech: LANG / TOOLS
-
-</details>
 
 ---
 
