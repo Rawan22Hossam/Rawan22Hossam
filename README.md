@@ -52,12 +52,28 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 <details>
 <summary><strong>Software Developer | Dsquares — June 2024 – Present</strong></summary>
 
-- Architected backend services using **MediatR** and **CQRS** to decouple business logic from controllers, improving maintainability and enabling independent scaling of read/write paths.
-- Built high-throughput messaging microservices for SMS, Email and Push using **Apache Kafka** (with Conduktor) and **Redis** for caching and deduplication, enabling reliable event-driven workflow[...] 
-- Designed and deployed the AnaAlahly App backend using **Python** on **AWS** (Lambda, API Gateway, S3); integrated **Cloudflare** for edge caching, rate limiting and DDoS protection.
-- Led API Contract design with **OpenAPI/Swagger** to ensure consistent integrations across squads and external partners.
-- Automated documentation migration and operational tasks via **n8n** (saving ~$1,200/year) and acted as Product Owner Proxy managing JIRA roadmaps and requirements.
-- Improved CI/CD delivery using **AWS CodePipeline** and **Bitbucket Pipelines**; enforced quality with unit tests (**XUnit**, **Pytest**) and full-cycle API testing.
+API Gateway & Infrastructure Modernization: Leading the migration from a legacy hardcoded gate-
+way to Kong API Gateway; developing custom Kong plugins to enhance security and request routing.
+Utilizing GCP and Datadog for comprehensive log aggregation, distributed tracing, and real-time per-
+formance observability.
+• Enterprise Design Patterns: Architected core backend logic using the MediatR pattern and CQRS
+(Command Query Responsibility Segregation) to decouple business logic from API controllers, im-
+proving code maintainability and scalability.
+• Distributed Systems & Messaging: Engineered high-volume communication microservices (SMS,
+Email, Push Notifications); leveraged Kafka and Conduktor to orchestrate event-driven workflows
+and ensure data consistency across distributed services.
+• Cloud-Native Development: Built and deployed the AnaAlahly App backend using Python and AWS;
+integrated Cloudflare for API performance monitoring, security group hardening, and rate-limiting to
+prevent DDoS attacks.
+• System Interoperability: Led the design of API Contracts (OpenAPI/Swagger) and cross-team sys-
+tem integrations, serving as a technical bridge to ensure seamless data flow between internal squads
+and external partners.
+• Process Automation & Leadership: Developed an n8n workflow to automate technical documenta-
+tion migration, reducing overhead by $1,200/year. Simultaneously acted as Product Owner Proxy,
+managing JIRA roadmaps and refining technical requirement specifications.
+• DevOps & Testing: Optimized automated CI/CD pipelines via AWS CodePipeline and Bitbucket; main-
+tained system integrity through rigorous unit and integration testing using NUnit (.NET Core), XUnit,
+and Pytest, complemented by full-cycle API testing
 
 </details>
 
@@ -82,8 +98,8 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 <details>
 <summary>Languages & Runtimes</summary>
 
-- Python — backend services & serverless functions (AWS Lambda)
 - C# (.NET / ASP.NET Core) — internal APIs and microservices
+- Python — backend services & serverless functions (AWS Lambda)
 - Node.js, Java — supporting services and scripting
 
 </details>
@@ -91,6 +107,7 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 <details>
 <summary>Cloud & Serverless</summary>
 
+- Google Cloud Platform 
 - AWS (Lambda, API Gateway, S3, SNS, SQS, CodePipeline) — serverless apps, messaging and CI/CD
 - Cloudflare — edge caching, rate-limiting and security
 
@@ -100,6 +117,7 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 <summary>Messaging & Eventing</summary>
 
 - Apache Kafka (with Conduktor) — high-volume event streams and pub/sub
+- RabbitMQ
 - Redis — caching, deduplication and ephemeral storage
 
 </details>
@@ -108,7 +126,8 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 <summary>Containers & Orchestration</summary>
 
 - Docker — containerization for local dev and CI
-- Kubernetes & Argo — orchestration and GitOps deployments
+- Kubernetes & ArgoCD — orchestration and GitOps deployments
+
 
 </details>
 
@@ -116,6 +135,7 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 <summary>Infrastructure as Code & DevOps</summary>
 
 - Terraform — infrastructure provisioning
+- Jenkins
 - Bitbucket Pipelines, AWS CodePipeline — CI/CD automation
 
 </details>
@@ -125,6 +145,7 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 - SQL Server, MySQL — relational storage and query tuning
 - MongoDB, DynamoDB — document and key-value storage
+- Postgres
 
 </details>
 
