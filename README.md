@@ -171,6 +171,16 @@ and Pytest, complemented by full-cycle API testing
 ## Selected projects
 
 <details>
+<summary><strong>Kong API Gateway  — Backend</strong></summary>
+
+- Short description: Revamped Hard-Coded .net core gateway into custom kong plugins.
+- Tech: lua , deployment via bitbucket and argocd , monitoring via GCP
+- Highlights:
+  - Revamped the logic into needed custom plugins via lua (handler.lua , schema.lua).
+
+</details>
+
+<details>
 <summary><strong>AnaAlahly App — Backend</strong></summary>
 
 - Short description: Backend for mobile app powering notifications and user services.
