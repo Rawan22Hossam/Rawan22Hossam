@@ -1,17 +1,20 @@
-# Hi, I’m Rawan 👋
+# Hi, I'm Rawan 👋
 
-Software Developer | I build clean, maintainable web apps, serverless backends and event-driven microservices.
+**Software Developer** building event-driven microservices, serverless backends, and clean, maintainable APIs.
+
+I'm the person who gets called in to turn a hardcoded, brittle service into something that scales — currently leading a legacy-to-Kong API Gateway migration and architecting CQRS-based backends that handle high-volume, real-time traffic.
 
 ## About
 
-- 🔭 I’m currently: Software Developer @ Dsquares (June 2024 – Present)
-- 🌱 I’m learning: System Design, Domain-Driven Design (DDD)
-- 📫 How to reach me: rawankhedr22@gmail.com · https://www.linkedin.com/in/rawan-hossam-26a013235/
+- 🔭 Currently: Software Developer @ Dsquares (June 2024 – Present)
+- 🌱 Currently deepening: System Design & Domain-Driven Design (DDD)
+- 💬 Ask me about: API Gateway architecture, event-driven systems (Kafka), CQRS/MediatR, serverless on AWS
+- 📫 Reach me: rawankhedr22@gmail.com · [LinkedIn](https://www.linkedin.com/in/rawan-hossam-26a013235/)
 - ⚡ Pronouns: she/they
 
 ---
 
-## Badges and Certificate
+## Certifications
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/9bdb3d92b173"><img alt="HackerRank Python" src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
@@ -20,74 +23,98 @@ Software Developer | I build clean, maintainable web apps, serverless backends a
 
 ---
 
-## Languages
-
-<div align="center" style="border:1px solid #e1e4e8;border-radius:8px;padding:16px;max-width:900px;margin:auto;background:#f8f9fb">
+## Tech Stack
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-<p align="center" style="margin-top:8px;color:#586069">Primary languages I use for backend services, APIs and tooling.</p>
-
-</div>
 
 ---
 
-## Table of contents
+## Table of Contents
 
 - [Experience](#experience)
+- [Flagship Projects](#flagship-projects)
 - [Tools & Frameworks](#tools--frameworks)
-- [Selected projects](#selected-projects)
-- [How I work](#how-i-work)
-- [Get in touch](#get-in-touch)
+- [Work Highlights](#work-highlights)
+- [How I Work](#how-i-work)
+- [Get in Touch](#get-in-touch)
 
 ---
 
 ## Experience
 
-<details>
+<details open>
 <summary><strong>Software Developer | Dsquares — June 2024 – Present</strong></summary>
+<br>
 
-API Gateway & Infrastructure Modernization: Leading the migration from a legacy hardcoded gate-
-way to Kong API Gateway; developing custom Kong plugins to enhance security and request routing.
-Utilizing GCP and Datadog for comprehensive log aggregation, distributed tracing, and real-time per-
-formance observability.
-• Enterprise Design Patterns: Architected core backend logic using the MediatR pattern and CQRS
-(Command Query Responsibility Segregation) to decouple business logic from API controllers, im-
-proving code maintainability and scalability.
-• Distributed Systems & Messaging: Engineered high-volume communication microservices (SMS,
-Email, Push Notifications); leveraged Kafka and Conduktor to orchestrate event-driven workflows
-and ensure data consistency across distributed services.
-• Cloud-Native Development: Built and deployed the AnaAlahly App backend using Python and AWS;
-integrated Cloudflare for API performance monitoring, security group hardening, and rate-limiting to
-prevent DDoS attacks.
-• System Interoperability: Led the design of API Contracts (OpenAPI/Swagger) and cross-team sys-
-tem integrations, serving as a technical bridge to ensure seamless data flow between internal squads
-and external partners.
-• Process Automation & Leadership: Developed an n8n workflow to automate technical documenta-
-tion migration, reducing overhead by $1,200/year. Simultaneously acted as Product Owner Proxy,
-managing JIRA roadmaps and refining technical requirement specifications.
-• DevOps & Testing: Optimized automated CI/CD pipelines via AWS CodePipeline and Bitbucket; main-
-tained system integrity through rigorous unit and integration testing using NUnit (.NET Core), XUnit,
-and Pytest, complemented by full-cycle API testing
+- **API Gateway Modernization** — Leading migration from a legacy hardcoded gateway to Kong API Gateway; built custom Lua plugins for security and request routing. Use GCP and Datadog for log aggregation, distributed tracing, and real-time observability.
+- **Enterprise Architecture** — Architected core backend logic using MediatR and CQRS, decoupling business logic from API controllers for improved maintainability and scalability.
+- **Distributed Systems & Messaging** — Engineered high-volume communication microservices (SMS, Email, Push Notifications) using Kafka and Conduktor to orchestrate event-driven workflows and ensure cross-service data consistency.
+- **Cloud-Native Development** — Built and deployed the AnaAlahly App backend (Python + AWS); integrated Cloudflare for performance monitoring, security hardening, and DDoS-mitigating rate limits.
+- **System Interoperability** — Designed API Contracts (OpenAPI/Swagger) and led cross-team integrations as technical bridge between internal squads and external partners.
+- **Process Automation & Leadership** — Built an n8n workflow automating documentation migration, saving **$1,200/year**. Acted as Product Owner Proxy, managing JIRA roadmaps and refining technical specs.
+- **DevOps & Testing** — Optimized CI/CD pipelines via AWS CodePipeline and Bitbucket; maintained system integrity through unit and integration testing (NUnit, XUnit, Pytest) plus full-cycle API testing.
 
 </details>
 
 <details>
 <summary><strong>Coding Instructor | Ischool — Feb 2024 – Nov 2024</strong></summary>
+<br>
 
-- Mentored 50+ students (ages 6–18) in Web Dev (HTML/CSS), Game Dev (**Godot**) and Mobile Dev (**Flutter**); created age-appropriate, hands-on projects and UI/UX workshops.
+Mentored 50+ students (ages 6–18) in Web Dev (HTML/CSS), Game Dev (Godot), and Mobile Dev (Flutter). Designed UI/UX and design-thinking workshops, and translated AI/ML concepts into age-appropriate projects.
 
 </details>
 
 <details>
 <summary><strong>Software Developer Intern | Dsquares — July 2023 – Sept 2023</strong></summary>
+<br>
 
-- Implemented RESTful APIs using **ASP.NET Core** and **Entity Framework Core**; optimized SQL Server queries for improved response times.
+Built RESTful APIs with ASP.NET Core and Entity Framework Core; optimized SQL Server queries for core modules; worked in an Agile team with daily stand-ups and sprint deliveries.
+
+</details>
+
+---
+
+## Flagship Projects
+
+> My day-to-day work runs on proprietary/company code I can't publish — the repos below are original builds that demonstrate the same architecture and patterns I use professionally.
+
+<details open>
+<summary><strong>🏗️ [In Progress] CQRS + DDD Order Service — .NET</strong></summary>
+<br>
+
+A clean-architecture ASP.NET Core API using MediatR, CQRS, and a rich domain model — the same pattern I use daily at Dsquares, rebuilt from scratch with full test coverage and CI.
+
+- **Tech:** C#, ASP.NET Core, MediatR, EF Core, XUnit, GitHub Actions
+- **Status:** In development — link coming soon
+
+</details>
+
+<details>
+<summary><strong>🏗️ [Planned] Event-Driven Notification Pipeline — Kafka</strong></summary>
+<br>
+
+Producer/consumer demo mirroring my SMS/Email/Push microservices work: order-placed events fanning out to multiple decoupled consumers with proper partitioning and consumer groups.
+
+- **Tech:** Apache Kafka, Docker Compose, .NET
+
+</details>
+
+<details>
+<summary><strong>🏗️ [Planned] Serverless Notification Service — AWS</strong></summary>
+<br>
+
+A Lambda + API Gateway + SQS/SNS service, deployed via IaC, demonstrating the serverless pattern behind the AnaAlahly App backend.
+
+- **Tech:** AWS Lambda, API Gateway, SQS/SNS, Terraform
 
 </details>
 
@@ -97,117 +124,103 @@ and Pytest, complemented by full-cycle API testing
 
 <details>
 <summary>Languages & Runtimes</summary>
+<br>
 
-- C# (.NET / ASP.NET Core) — internal APIs and microservices
-- Python — backend services & serverless functions (AWS Lambda)
-- Node.js, Java — supporting services and scripting
+C# (.NET / ASP.NET Core) · Python · Node.js · Java
 
 </details>
 
 <details>
 <summary>Cloud & Serverless</summary>
+<br>
 
-- Google Cloud Platform 
-- AWS (Lambda, API Gateway, S3, SNS, SQS, CodePipeline) — serverless apps, messaging and CI/CD
-- Cloudflare — edge caching, rate-limiting and security
+Google Cloud Platform · AWS (Lambda, API Gateway, S3, SNS, SQS, CodePipeline) · Cloudflare
 
 </details>
 
 <details>
 <summary>Messaging & Eventing</summary>
+<br>
 
-- Apache Kafka (with Conduktor) — high-volume event streams and pub/sub
-- RabbitMQ
-- Redis — caching, deduplication and ephemeral storage
+Apache Kafka (Conduktor) · RabbitMQ · Redis
 
 </details>
 
 <details>
 <summary>Containers & Orchestration</summary>
+<br>
 
-- Docker — containerization for local dev and CI
-- Kubernetes & ArgoCD — orchestration and GitOps deployments
-
+Docker · Kubernetes · ArgoCD
 
 </details>
 
 <details>
 <summary>Infrastructure as Code & DevOps</summary>
+<br>
 
-- Terraform — infrastructure provisioning
-- Jenkins
-- Bitbucket Pipelines, AWS CodePipeline — CI/CD automation
+Terraform · Jenkins · Bitbucket Pipelines · AWS CodePipeline
 
 </details>
 
 <details>
 <summary>Databases</summary>
+<br>
 
-- SQL Server, MySQL — relational storage and query tuning
-- MongoDB, DynamoDB — document and key-value storage
-- Postgres
+SQL Server · MySQL · PostgreSQL · MongoDB · DynamoDB
 
 </details>
 
 <details>
 <summary>Testing & Observability</summary>
+<br>
 
-- XUnit, Pytest, NoseTest — unit and integration testing
-- Postman, Swagger/OpenAPI — API testing and documentation
-- Grafana, Prometheus — monitoring and metrics
+XUnit · NUnit · Pytest · Postman · Swagger/OpenAPI · Grafana · Prometheus
 
 </details>
 
 <details>
-<summary>Other tools</summary>
+<summary>Other Tools</summary>
+<br>
 
-- n8n — automation for documentation and ops workflows
-- JIRA — backlog and roadmap management
+n8n · JIRA
 
 </details>
 
 ---
 
-## Selected projects
+## Work Highlights
 
 <details>
-<summary><strong>Kong API Gateway  — Backend</strong></summary>
+<summary><strong>Kong API Gateway — Backend</strong></summary>
+<br>
 
-- Short description: Revamped Hard-Coded .net core gateway into custom kong plugins.
-- Tech: lua , deployment via bitbucket and argocd , monitoring via GCP
-- Highlights:
-  - Revamped the logic into needed custom plugins via lua (handler.lua , schema.lua).
+Migrated a legacy hardcoded .NET Core gateway to Kong, writing custom plugins in Lua (`handler.lua`, `schema.lua`) for routing and security logic. Deployed via Bitbucket + ArgoCD; monitored through GCP.
 
 </details>
 
 <details>
 <summary><strong>AnaAlahly App — Backend</strong></summary>
+<br>
 
-- Short description: Backend for mobile app powering notifications and user services.
-- Tech: Python, AWS Lambda, API Gateway, S3, DynamoDB, Kafka, Cloudflare
-- Highlights:
-  - Serverless architecture using Lambda + API Gateway for cost-efficiency and autoscaling.
-  - Event-driven flows implemented with Kafka for decoupled processing of notifications.
-  - Integrated Cloudflare to reduce API latency and block abusive traffic.
+Backend for a mobile app powering notifications and user services.
+
+- Serverless architecture (Lambda + API Gateway) for cost efficiency and autoscaling
+- Event-driven notification processing via Kafka
+- Cloudflare integration for reduced latency and abuse protection
 
 </details>
 
+---
+
+## How I Work
+
+**Practices:** Clean Code · SOLID · Onion Architecture · API-first design
+**Focus areas:** System Design · Domain-Driven Design (DDD) · scalable event-driven systems
 
 ---
 
-## How I work
-
-- Practices: Clean Code, SOLID, Onion Architecture, API-first design
-- Focus areas: System Design, Domain-Driven Design (DDD), scalable event-driven systems
-
----
-
-## Get in touch
-
-- Email: rawankhedr22@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rawan-hossam-26a013235/
-- GitHub: https://github.com/Rawan22Hossam
-- Test.IO : https://tester.test.io/profile_pages/rawan_hossam_mohammed
-
----
-
+## Get in Touch
+- 📧 Email: rawankhedr22@gmail.com
+- 💼 LinkedIn: [rawan-hossam](https://www.linkedin.com/in/rawan-hossam-26a013235/)
+- 💻 GitHub: [@Rawan22Hossam](https://github.com/Rawan22Hossam)
+- 🧪 Test.IO: [Profile](https://tester.test.io/profile_pages/rawan_hossam_mohammed)
